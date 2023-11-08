@@ -1,5 +1,8 @@
 body {
-  background-color: #d3d3d3
+  background-color: #d3d3d3;
+  margin: 0;
+  border: 0;
+  padding: 0;
 }
 
 h3 {
@@ -8,7 +11,4 @@ h3 {
 
 .header-section {
   background-color: white;
-  margin: 0px;
-  padding: 0px;
-  position: fixed;
 }
