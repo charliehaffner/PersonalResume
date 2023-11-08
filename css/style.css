@@ -11,5 +11,5 @@ h3 {
 
 .header-section {
   background-color: white;
-  background-image: ('../media/header.jpg');
+  background-image: url('../media/header.jpg');
 }
