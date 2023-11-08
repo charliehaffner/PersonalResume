@@ -9,13 +9,6 @@ h1 {
 h2 {
   color: forestgreen;
 }
-body {
-  background-image: url{"header.jpg"};
-  background-repeat: none;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 200px;
-  width: auto;
-  
-  
+.header-picture {
+  background-image: url{"media/header.jpg"};
 }
