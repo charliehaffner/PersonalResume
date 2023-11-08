@@ -2,13 +2,16 @@ body {
   background-color: #d3d3d3
 }
 
-h1 {
-  text-decoration: underline;
-}
-
-h2 {
+h3 {
   color: forestgreen;
 }
+
 .header-picture {
   background-image: url{"media/header.jpg"};
+}
+
+.header-section {
+  background-color: white;
+  margin: 0px;
+  padding; 20px;
 }
