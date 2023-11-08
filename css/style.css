@@ -9,7 +9,7 @@ h1 {
 h2 {
   color: forestgreen;
 }
-.header-picture {
+body {
   background-image: url{"header.jpg"};
   background-repeat: none;
   background-size: cover;
