@@ -1,3 +1,8 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: #d3d3d3
 }
@@ -6,11 +11,8 @@ h3 {
   color: forestgreen;
 }
 
-.header-picture {
-  background-image: url{"media/header.jpg"};
-}
-
 .header-section {
   background-color: white;
-  width: 104%;
+  height: 200px;
+  width: 
 }
