@@ -11,4 +11,11 @@ h2 {
 }
 .header-picture {
   background-image: url{"header.jpg"};
+  background-repeat: none;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 200px;
+  width: auto;
+  
+  
 }
