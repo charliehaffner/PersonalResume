@@ -3,13 +3,12 @@ body {
 }
 
 h3 {
-  color: forestgreen;
+  color: darkgreen;
 }
 
 .header-section {
   background-color: white;
-  height: 200px;
-  width: 100%;
   margin: 0px;
   padding: 0px;
+  position: fixed;
 }
