@@ -8,7 +8,7 @@ body {
 
 h1, h3 {
   color: black;
-  transform: 50% 50%;
+  text-align: center;
 }
 
 .header-section {
