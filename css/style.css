@@ -5,12 +5,24 @@ body {
   padding: 0;
 }
 
-h3 {
-  color: darkgreen;
+h1, h3 {
+  color: white;
+  text-align: center;
 }
 
 .header-section {
   background-color: white;
   background-image: url('../media/header.jpg');
-  height: auto;
+  height: 300px;
+}
+
+.nav-container {
+  overflow: hidden;
+  color: black;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
