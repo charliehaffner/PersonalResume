@@ -25,4 +25,24 @@ h1, h3 {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.nav-list ul li {
+  display: block;
+  position: relative;
+}
+
+.nav-list ul li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 15px, 20px;
+}
+
+.nav-list ul li a:hover {
+  color: black;
+  background-color: white;
 }
