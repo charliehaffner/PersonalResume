@@ -28,12 +28,12 @@ h1, h3 {
   position: relative;
   width: 100%;
   text-align: center;
-  float: left;
 }
 
 .nav-list ul li {
   display: block;
   position: relative;
+  float: left;
 }
 
 .nav-list ul li a {
