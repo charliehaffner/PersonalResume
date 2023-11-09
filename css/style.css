@@ -15,7 +15,6 @@ h1, h3 {
 .header-section {
   background-color: white;
   background-image: url('../media/header.jpg');
-  height: 300px;
 }
 
 .nav-container {
